@@ -1,0 +1,1 @@
+create table Author_tbl(authorId number,firstName varchar2(15),middleName varchar2(15),lastName varchar2(15),phoneNo number(10));
